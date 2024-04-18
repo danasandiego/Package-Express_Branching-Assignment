@@ -25,10 +25,15 @@ namespace Package_Express_Branching_Assignment
                 Console.WriteLine("Please enter the package length:");
                 string length = Console.ReadLine();
                 int length2 = Convert.ToInt32(length);//casting string to integer
-                decimal total = ((width2 * height2 * length2) * weight2) / 100; //formula to get total shipping fee
-
-                Console.WriteLine("Your estimated total for shipping this package is: $" + total); //displays total
-                Console.WriteLine("Thank you!");
+                decimal total = (width2 * height2 * length2); //formula to get dimension
+                     if (total > 50) { // if package is greater than 50 in dimension
+                    Console.WriteLine("Package too big to be shipped via Package Express."); 
+                    }
+                    else {
+                    decimal price = total * weight2 / 100;
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + price); //displays shipping fee
+                    Console.WriteLine("Thank you!");
+                }
             }
 
 
