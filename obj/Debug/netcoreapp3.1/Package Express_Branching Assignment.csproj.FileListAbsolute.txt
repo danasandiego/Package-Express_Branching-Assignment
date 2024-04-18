@@ -1,0 +1,13 @@
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.exe
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.deps.json
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.runtimeconfig.json
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.runtimeconfig.dev.json
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.dll
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\bin\Debug\netcoreapp3.1\Package Express_Branching Assignment.pdb
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.csproj.AssemblyReference.cache
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.AssemblyInfoInputs.cache
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.AssemblyInfo.cs
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.dll
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.pdb
+C:\Users\Dana\Desktop\Basic_C#_Programs\Package Express_Branching Assignment\Package Express_Branching Assignment\obj\Debug\netcoreapp3.1\Package Express_Branching Assignment.genruntimeconfig.cache
